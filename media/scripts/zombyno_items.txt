@@ -1,0 +1,17 @@
+module Zombyno {
+    item Token_zombyno
+	{
+        DisplayCategory = Junk,
+		Type = Normal,
+        DisplayName = Dente di zombyno,
+		Icon = DeadPerson_MaleZombie,
+	}
+
+    item Token_Timer
+    {
+        Type 		= Drainable,
+        UseWhileEquipped	=	FALSE,
+        UseDelta	=	0.01,
+        Weight 		= 0,
+    }
+}

@@ -1,0 +1,22 @@
+module Base
+{
+	item zombyno
+	{
+		DisplayCategory = Bandage,
+		Type = Clothing,
+		DisplayName = zombyno,
+		ClothingItem = zombyno,
+		BodyLocation = FullSuit,
+		BloodLocation = Hands;Shoes,
+		NeckProtectionModifier = 1,
+		WorldRender = FALSE,
+		StompPower = 0.1,
+		CanHaveHoles = false,
+		RunSpeedModifier = 1.2,
+		CombatSpeedModifier = 1.1,
+		ScratchDefense = 0,
+		BiteDefense = 0,
+		Insulation = 0,
+		WindResistance = 0,
+	}
+}
